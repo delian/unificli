@@ -1,2 +1,5 @@
 {
+    "db": {
+        "filename": "db/db"
+    }
 }
