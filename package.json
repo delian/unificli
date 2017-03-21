@@ -1,0 +1,27 @@
+{
+  "name": "unificli",
+  "version": "0.0.1",
+  "description": "Experimental CLI with node-unifiapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delian/unificli.git"
+  },
+  "author": "Delian Delchev <delian.delchev@gmail.com>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/delian/unificli/issues"
+  },
+  "homepage": "https://github.com/delian/unificli#readme",
+  "dependencies": {
+    "debug": "^2.6.3",
+    "merge": "^1.2.0",
+    "nedb": "^1.8.0",
+    "node-unifiapi": "0.0.39",
+    "vorpal": "^1.11.4"
+  }
+}
