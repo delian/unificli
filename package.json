@@ -22,6 +22,9 @@
     "merge": "^1.2.0",
     "nedb": "^1.8.0",
     "node-unifiapi": "0.0.39",
-    "vorpal": "^1.11.4"
+    "vorpal": "^1.11.4",
+    "vorpal-comment": "^1.0.0",
+    "vorpal-grep": "^0.2.0",
+    "vorpal-less": "0.0.13"
   }
 }
