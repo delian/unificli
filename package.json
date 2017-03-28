@@ -26,5 +26,12 @@
     "vorpal-comment": "^1.0.0",
     "vorpal-grep": "^0.2.0",
     "vorpal-less": "0.0.13"
+  },
+  "eslintConfig": {
+    "ecmaVersion": 7,
+    "esversion": 7
+  },
+  "jshintConfig": {
+    "esversion": 7
   }
 }
