@@ -57,7 +57,7 @@ Each location have one of the following parameters:
 
 To create location use:
 
-    add location *<Name of the Location>*
+    add location <Name of the Location>
 
 Where we have the following options:
 
@@ -80,11 +80,11 @@ Where we have the following options:
 
 To remove location use:
 
-    delete location *<Name of the Location>*
+    delete location <Name of the Location>
 
 To edit location use:
 
-    edit location *<Name of the Location>*
+    edit location <Name of the Location>
 
 Where the options are:
 
@@ -107,11 +107,15 @@ Where the options are:
 
 To select default current location use:
 
-    set location *<name of the location>*
+    set location <name of the location>
 
 Or you could use the simplest:
 
-    cd *<name of the location>*
+    cd <name of the location>
+
+To display the locations use:
+
+    show locations
 
 Almosy all of the Ubiquiti calls require Site name. Within the Ubiquiti controller you could group devices into groups named sites and they share configurations that are applied per site or per device per site. Therefore in which site you belong must always be known.
 
