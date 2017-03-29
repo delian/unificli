@@ -133,29 +133,56 @@ You could select different controller device id by using the command:
 The following commands are available (please call **<command> --help** in order to see their options):
 
 list_guests [options]                List all registered guests
+
 list_clients [options]               List all registered clients
+
 stat_client [options]                Client statistics
+
 list_self [options]                  Get information about yourself
+
 stat_sysinfo [options]               Get System info
+
 list_wlan_groups [options]           Get Wlan Groups
+
 list_usergroup [options]             Get User Groups
+
 list_health [options]                Get Health Status
+
 list_dashboard [options]             Get Dashboards
+
 list_users [options]                 Get Users
+
 list_aps [options]                   Get Access Points
+
 list_rogueaps [options]              Get Rogue Access Points
+
 list_networkconf [options]           Get network configuration
+
 list_sites [options]                 Get Sites
+
 stat_sites [options]                 Site stats
+
 stat_voucher [options]               Voucher stats
+
 stat_payment [options]               Payment stats
+
 list_hotspot [options]               Hotspot list
+
 list_portforwarding [options]        Portforwarding list
+
 list_dynamicdns [options]            Dynamic DNS list
+
 list_portconf [options]              Port configuration list
+
 list_extension [options]             Extensions list
+
 list_settings [options]              Settings list
+
 list_events [options]                Events list
+
 list_alarms [options]                Alarms list
+
 status [options]                     Get current status
+
 stat_sdn [options]                   SDN stats
+
