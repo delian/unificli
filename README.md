@@ -29,6 +29,8 @@ You can start the application with this:
 The CLI is (based on vorpal) REPL.
 You type commands and they are executed on the chosen Ubiquiti Unifi System.
 
+![alt tag](https://raw.githubusercontent.com/delian/unificli/master/images/demo-unificli.gif)
+
 ### Inline help
 Using commands **help** or *<command>* *--help* in the cli provides us with small inline help
 
