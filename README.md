@@ -186,3 +186,16 @@ status [options]                     Get current status
 
 stat_sdn [options]                   SDN stats
 
+sdn_onoff [options]                  Enable/Disable SDN (Unifi Cloud) (default disable)
+
+sdn_register [options] <username> <password>            Register to Unifi Cloud
+
+sdn_unregister [options]                                Deregister from Unifi Cloud
+
+remove_wlanconf [options] <id>                          Remove Wlan Configuration
+
+add_wlanconf [options] <name>                           Add Wlan Configuration
+
+debug [options] [debug]                                 Enable or disable debug
+
+connectSSH [options] <mac>                              Open SSH Session to a device via WebRTC
