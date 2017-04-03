@@ -1,6 +1,6 @@
 {
   "name": "unificli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Experimental CLI with node-unifiapi",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "debug": "^2.6.3",
     "merge": "^1.2.0",
     "nedb": "^1.8.0",
-    "node-unifiapi": "~0.0.43",
+    "node-unifiapi": "~0.0.44",
     "vorpal": "^1.11.4",
     "vorpal-comment": "^1.0.0",
     "vorpal-grep": "^0.2.0",
